@@ -1,16 +1,16 @@
-# 📊 Multivariate Analysis Project
+# 📊 Univariate Analysis Project
 
 ## 📌 Overview
 
-This project focuses on performing **Multivariate Analysis** to understand relationships between multiple variables in a dataset. It uses Python libraries to analyze, visualize, and interpret complex data patterns.
+This project focuses on **Univariate Analysis**, which involves analyzing a single variable at a time to understand its distribution, pattern, and basic characteristics.
 
 ---
 
 ## 🎯 Objective
 
-* To analyze relationships between more than two variables
-* To identify patterns, trends, and correlations
-* To visualize multidimensional data effectively
+* To analyze individual variables independently
+* To understand data distribution and spread
+* To identify outliers and patterns
 
 ---
 
@@ -26,26 +26,25 @@ This project focuses on performing **Multivariate Analysis** to understand relat
 
 ## 📂 Dataset
 
-The project uses a dataset containing multiple features (e.g., numerical and categorical variables).
+The dataset contains different types of variables such as numerical and categorical data.
 Example: Tips dataset, Student dataset, etc.
 
 ---
 
 ## 📊 Analysis Performed
 
-* Scatter Plot (relationship between variables)
-* Pair Plot (multiple variable comparison)
-* Heatmap (correlation matrix)
-* Box Plot (distribution with categories)
-* Multi-variable comparisons using hue, style, and size
+* Histogram (distribution of numerical data)
+* Count Plot (frequency of categorical data)
+* Box Plot (detect outliers)
+* Dist Plot / KDE Plot (density distribution)
 
 ---
 
 ## 📈 Key Insights
 
-* Identified correlations between variables
-* Observed trends and clusters in data
-* Compared multiple categories simultaneously
+* Understood distribution of individual variables
+* Identified skewness and spread
+* Detected outliers in the dataset
 
 ---
 
@@ -67,14 +66,14 @@ Example: Tips dataset, Student dataset, etc.
 
 ## 💡 Conclusion
 
-Multivariate analysis helps in understanding complex datasets by analyzing multiple variables together, making it easier to derive meaningful insights and support decision-making.
+Univariate analysis is the first step in data analysis. It helps in understanding each variable individually before moving to bivariate or multivariate analysis.
 
 ---
 
 ## 📌 Future Scope
 
-* Apply machine learning models
-* Use larger real-world datasets
-* Perform advanced statistical analysis
+* Combine with bivariate and multivariate analysis
+* Apply statistical tests
+* Use in preprocessing for machine learning
 
 ---
